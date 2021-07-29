@@ -18,6 +18,11 @@ Sou estudante Front-end na **<Laboratória>** e estudante Back-end na **{Reprogr
 <a href= https://github.com/MarianaFAndrade?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 <hr/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFAndrade&layout=compact&theme=tokyonight)
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaFAndrade&show_icons=true&theme=tokyonight)
+
 ![Profile views](https://gpvc.arturio.dev/MarianaFAndrade) 
 
 <hr/>
