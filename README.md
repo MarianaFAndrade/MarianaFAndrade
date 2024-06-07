@@ -1,7 +1,7 @@
 
 ## Hi there 👋, meu nome é Mariana e sou uma dev em construção :smile:
 
-Sou estudante Front-end na **<Laboratória>** e estudante Back-end na **{Reprograma}**  
+Back-end JS at **{Reprograma}**  
 
 - 📫 Entrar em contato: andrade.marianaferreira@gmail.com 
 - 😄 Pronomes: Ella/She/Ela  
